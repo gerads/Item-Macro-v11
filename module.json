@@ -13,7 +13,6 @@
     }
   ],
   "url": "https://github.com/gerads/Item-Macro-v11",
-  "id": "itemacro",
   "authors": [
     {
       "name": "Kekilla#7036",
@@ -30,7 +29,7 @@
   },
   "name": "itemacro",
   "minimumCoreVersion": "0.8.0",
-  "version": "!master",
+  "version": "11",
   "manifest": "https://github.com/gerads/Item-Macro-v11/releases/latest/download/module.json",
   "download": "https://raw.githubusercontent.com/gerads/Item-Macro-v11/main/module.json"
 }
